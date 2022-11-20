@@ -1,0 +1,4 @@
+ for collision detection
+
+https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
+https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection
